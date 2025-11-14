@@ -7,7 +7,7 @@
 ## Carrera 
 Tecnicatura Universitaria en Telecomunicaciones  
 ## Materia 
-TUT - Programacíon  
+TUT - Programación  
 ## Programa Utilizado 
 PseInt 
 ## Descripción 
